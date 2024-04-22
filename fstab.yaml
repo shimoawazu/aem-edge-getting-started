@@ -1,2 +1,5 @@
 mountpoints:
-  /: https://author-p51452-e1267305.adobeaemcloud.com/bin/franklin.delivery/shimoawazu/aem-edge-getting-started/main
+  /:
+    url: "https://author-p51452-e1267305.adobeaemcloud.com/bin/franklin.delivery/shimoawazu/aem-edge-getting-started/main"
+    type: "markup"
+    suffix: ".html"
